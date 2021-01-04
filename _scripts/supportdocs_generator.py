@@ -42,7 +42,7 @@ def add_help_file(title: str, _directory: str, filename: str, tags: list):
     data.append(
         {
             "title": title,
-            "url": f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPOSITORY}/{directory}{filename}",
+            "url": f"https://highschool-ios-devs.github.io/{GITHUB_REPOSITORY}/{directory}{filename}",
             "tags": tags,
         }
     )
@@ -141,7 +141,7 @@ if __name__ == "__main__":
         toc_data.append(
             {
                 "title": "404 Page",
-                "url": f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPOSITORY}/404",
+                "url": f"https://highschool-ios-devs.github.io/{GITHUB_REPOSITORY}/404",
                 "tags": ["SupportDocs Integrated File"],
             }
         )
@@ -149,9 +149,9 @@ if __name__ == "__main__":
     toc = ""
     for support_document in sorted(toc_data, key=lambda item: item["title"].lower()):
         if "SupportDocs/" in "/".join(support_document["url"].split("/")[-2:]):
-            edit_link = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{support_document['url'].split('/')[-1]}.md"
+            edit_link = f"https://github.com/highschool-ios-devs/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{support_document['url'].split('/')[-1]}.md"
         else:
-            edit_link = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{'/'.join(support_document['url'].split('/')[-2:])}.md"
+            edit_link = f"https://github.com/highschool-ios-devs/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{'/'.join(support_document['url'].split('/')[-2:])}.md"
 
         toc += (
             f"- [{support_document['title']}]({support_document['url']})"
@@ -162,8 +162,8 @@ if __name__ == "__main__":
     del toc_data
 
     # README Rendering
-    deployment_progress = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/deployments/activity_log?environment=github-pages"
-    editable_readme_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{READ_README_FILE_PATH}"
+    deployment_progress = f"https://github.com/highschool-ios-devs/{GITHUB_REPOSITORY}/deployments/activity_log?environment=github-pages"
+    editable_readme_url = f"https://github.com/highschool-ios-devs/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{READ_README_FILE_PATH}"
     datasource_url = (
         f"https://github.com/{FULL_GITHUB_REPOSITORY}".replace(
             "//github.com/", "//raw.githubusercontent.com/"
