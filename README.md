@@ -46,24 +46,24 @@ class UIKitExampleController_MinimalCode: UIViewController {
 </details>
 
 ## Table of Contents
-- [404 Page](https://kiwis08.github.io/Studeo-Help/404) (SupportDocs Integrated File) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Studeo-Help/404.md))
-- [Apple smoothie](https://kiwis08.github.io/Studeo-Help/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://kiwis08.github.io/Studeo-Help/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://kiwis08.github.io/Studeo-Help/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://kiwis08.github.io/Studeo-Help/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://kiwis08.github.io/Studeo-Help/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://kiwis08.github.io/Studeo-Help/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://kiwis08.github.io/Studeo-Help/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://kiwis08.github.io/Studeo-Help/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://kiwis08.github.io/Studeo-Help/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/kiwis08/Studeo-Help/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [404 Page](https://highschool-ios-devs.github.io/Studeo-Help/404) (SupportDocs Integrated File) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Studeo-Help/404.md))
+- [Apple smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Apple.md))
+- [Blueberry smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Blueberry.md))
+- [Buy blue boba](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
+- [Buy cream boba](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
+- [Buy orange boba](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
+- [How to cook pizza](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
+- [How to eat burritos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
+- [How to eat grilled cheese](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
+- [How to eat nachos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
+- [How to eat tacos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
+- [How to make spaghetti](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
+- [How to prepare ramen](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
+- [Peach smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Peach.md))
+- [Plum smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Plum.md))
+- [Red berry smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
 
 ## Notes
-- Your changes make take up to five minutes to deploy. You can track the deployment progress [here](https://github.com/kiwis08/Studeo-Help/deployments/activity_log?environment=github-pages).
-- Do **not** update this file (`README.md`) directly. Your changes will be overriden the next time you push (the GitHub Action will regenerate this file). Instead, update the file in [`_scripts/README.md`](https://github.com/kiwis08/Studeo-Help/edit/DataSource/_scripts/README.md). 
+- Your changes make take up to five minutes to deploy. You can track the deployment progress [here](https://github.com/highschool-ios-devs/Studeo-Help/deployments/activity_log?environment=github-pages).
+- Do **not** update this file (`README.md`) directly. Your changes will be overriden the next time you push (the GitHub Action will regenerate this file). Instead, update the file in [`_scripts/README.md`](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/_scripts/README.md). 
