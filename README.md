@@ -47,7 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://highschool-ios-devs.github.io/Studeo-Help/404) (SupportDocs Integrated File) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Studeo-Help/404.md))
-- [Public beta](https://highschool-ios-devs.github.io/Studeo-Help/Help files/Placeholder) (No Tags) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Help files/Placeholder.md))
+- [Public beta](https://highschool-ios-devs.github.io/Studeo-Help/Help files/Placeholder) (beta) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Help files/Placeholder.md))
 
 
 ## Notes
