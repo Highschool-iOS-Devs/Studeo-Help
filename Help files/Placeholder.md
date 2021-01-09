@@ -1,6 +1,6 @@
 ---
 title: Public beta
-tags: 
+tags: beta
 ---
 
 ## Thank you for signing up to be a beta tester!
