@@ -47,18 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://highschool-ios-devs.github.io/Studeo-Help/404) (SupportDocs Integrated File) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Studeo-Help/404.md))
-- [Apple smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [How to cook pizza](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://highschool-ios-devs.github.io/Studeo-Help/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://highschool-ios-devs.github.io/Studeo-Help/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [Public beta](https://highschool-ios-devs.github.io/Studeo-Help/Help files/Placeholder) (beta) ([edit](https://github.com/highschool-ios-devs/Studeo-Help/edit/DataSource/Help files/Placeholder.md))
 
 
 ## Notes
